@@ -7,15 +7,26 @@ Sure, here's a basic structure for your README.md file:
 
 This project is a learning system developed using React Vite. It provides separate interfaces for administrators, trainers, and students, allowing each user type to access relevant features and functionalities.
 
+
 ## Features
 
 - **Admin Interface**: Dashboard, User Management, Course Management, Analytics.
 - **Trainer Interface**: Dashboard, Course Management, Student Progress Tracking.
 - **Student Interface**: Dashboard, Course Enrollment, Course Catalog, Grades & Feedback.
 
+
+
 ## Folder Structure
 
 ```
+
+## PAGES SCREENSHOT
+### Login Page
+
+![Alt text](image.png)
+
+### Trainedr Dashboard
+
 - src
   - assets
     - images

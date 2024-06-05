@@ -1,0 +1,47 @@
+.login_page{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login_form_card{
+    width: 100%;
+    max-width: 500px;
+    padding: 2em;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    padding-bottom: 40px;
+    box-shadow: 0 0 20px var(--primary-color);
+}
+
+.login_form_card .form_group{
+    padding: 20px 0;
+}
+
+.login_form_card input{
+    width: 100%;
+    height: 60px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(10, 25, 47, 0.2);
+    font-size: 20px;
+    padding: 0px 20px;
+}
+
+.login_form_card button{
+    width: 100%;
+    height: 60px;
+    border-radius: 8px;
+    border: none;
+    background: linear-gradient(var(--primary-color), darkblue);
+    color: var(--white-color);
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.div_web_logo{
+    display: flex;
+    justify-content: center;
+}
